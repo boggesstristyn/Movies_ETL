@@ -6,6 +6,6 @@ For this challenge we refractored code in order to help automate the process for
 
 ### Resources
 
-Source files: [Resources](
+Source files: [Resources](https://github.com/boggesstristyn/Movies_ETL/tree/main/Resources)
 
 Software: PostgresSQL 12.11.1, pgAdmin 4, Python 3.7, Jupyter Notebook.
